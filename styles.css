@@ -1,2 +1,53 @@
+#html{
+	background-color: black;
+	color: white
+}
 
+table,th,tr,td{
+	border: 1px solid black;
+}
+
+
+#nested-table-2{
+	box-sizing: border-box;
+	border: 1px solid black;
+	text-align: center;
+	width: 100%;
+}
+
+#nested-table-2 caption{
+	border: 1px solid black;
+	font-weight: bold;
+}
+
+#nested-table-1{
+	text-align: center;
+	width: 100%;
+}
+
+#nested-table-1 caption{
+	border: 1px solid black;
+	font-weight: bold;
+}
+
+#nested-table-3{
+	text-align: center;
+	width: 100%;
+}
+
+#nested-table-3 caption{
+	border: 1px solid black;
+	font-weight: bold;
+}
+
+#nested-table-4{
+	text-align: center;
+	width: 100%;
+}
+
+
+#nested-table-4 caption{
+	border: 1px solid black;
+	font-weight: bold;
+}
 /* Your CSS Code here. */
